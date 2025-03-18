@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Manifest-Version: 1.0
+
+=======
+Manifest-Version: 1.0
+
+>>>>>>> c95924d (Moved Dockerfile to root directory)
